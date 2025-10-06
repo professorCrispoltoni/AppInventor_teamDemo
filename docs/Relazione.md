@@ -3,6 +3,8 @@
 ## 1. Introduzione e brainstorming
 Descrivi l'idea dell'app, gli obiettivi e il target.
 
+![Figura 1 – Schermata iniziale dell’app](../screenshots/esempio.png)
+
 ## 2. Progettazione
 - Schermate principali (con immagini in `/screenshots/`)
 - Blocchi utilizzati e logica di funzionamento
