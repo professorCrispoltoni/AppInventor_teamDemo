@@ -5,6 +5,10 @@ Descrivi l'idea dell'app, gli obiettivi e il target.
 
 ![Figura 1 – Schermata iniziale dell’app](../screenshots/esempio.png)
 
+![Figura 1](../screenshots/home_screen.png)  
+*Figura 1 – Schermata principale dell’app con pulsanti di navigazione.*
+
+
 ## 2. Progettazione
 - Schermate principali (con immagini in `/screenshots/`)
 - Blocchi utilizzati e logica di funzionamento
