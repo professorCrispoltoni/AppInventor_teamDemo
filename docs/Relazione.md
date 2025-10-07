@@ -21,7 +21,7 @@ Descrivi l'idea dell'app, gli obiettivi e il target.
 - Vertical e Horizontal Arrangement
 
 ## 4. Parte multidisciplinare
-Spiega i collegamenti con le discipline studiate.
+Spiega i collegamenti con le discipline studiate. Per bene.
 
 ## 5. Versionamento e ruoli
 Inserisci la tabella delle versioni (vedi `CHANGELOG.md`).
